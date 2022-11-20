@@ -6,5 +6,5 @@ This notebook aims to do that by presenting various graphical representations, n
 
 After that intuition has been built, the notebook expands on this by asking original questions about the process which I haven't found elsewhere. These questions challenge the student to think more deeply beyond what they have been told, and to develop a deeper understanding beyond simple regurgitation of what they heard.  
 
-I hope that it is of help!
+I hope that it is of help!  
 Gabriel
